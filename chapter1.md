@@ -12,7 +12,7 @@
 
 ## Tmux
 
-用过的人都说好。可以分割terminal ，还可以保存terminal的tab\(标签\).即使重启也知道自己的terminal工作区在哪里。
+用过的人都说好。可以分割terminal\(命令行\) ，还可以保存terminal的tab\(标签\).即使重启也知道自己的terminal工作区在哪里。
 
 ## MindNote
 
